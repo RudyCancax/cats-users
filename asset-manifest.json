@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/cats-users/static/css/main.54cc730a.css",
-    "main.js": "/cats-users/static/js/main.f78a10ff.js",
+    "main.css": "/cats-users/static/css/main.ca61ce81.css",
+    "main.js": "/cats-users/static/js/main.fc5fb671.js",
     "static/js/787.a677605c.chunk.js": "/cats-users/static/js/787.a677605c.chunk.js",
+    "static/media/_decterm.woff": "/cats-users/static/media/_decterm.94a67e1726eabc3c2766.woff",
     "static/media/SEGA.woff": "/cats-users/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/cats-users/index.html",
-    "main.54cc730a.css.map": "/cats-users/static/css/main.54cc730a.css.map",
-    "main.f78a10ff.js.map": "/cats-users/static/js/main.f78a10ff.js.map",
+    "main.ca61ce81.css.map": "/cats-users/static/css/main.ca61ce81.css.map",
+    "main.fc5fb671.js.map": "/cats-users/static/js/main.fc5fb671.js.map",
     "787.a677605c.chunk.js.map": "/cats-users/static/js/787.a677605c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54cc730a.css",
-    "static/js/main.f78a10ff.js"
+    "static/css/main.ca61ce81.css",
+    "static/js/main.fc5fb671.js"
   ]
 }
