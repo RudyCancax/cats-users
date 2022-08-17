@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('./Assets/fonts/SEGA.woff') format('woff');
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +42,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+.boton {
+  height: 10%;
+  width: 50%;
+  background-color: #61dafb;
+  border-radius: 15px;
+  border-color: rgba(0, 0, 0, 0);
+  box-shadow: #282c34;
+}
+.boton2 {
+  height: 10%;
+  width: 50%;
+  margin-bottom: 20px;
+  background-color: #61dafb;
+  border-radius: 15px;
+  border-color: rgba(0, 0, 0, 0);
+  box-shadow: #282c34;
+}
+
+.h1 {
+  font-family: 'SEGA LOGO FONT';
+  letter-spacing: 10px;
+  color: #96ccff;
+  text-shadow: 1px 1px 1px black;
 }
